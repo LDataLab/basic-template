@@ -1,0 +1,5 @@
+[project]
+name = "Cambia el nombre de tu proyecto"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = []
