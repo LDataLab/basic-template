@@ -1,5 +1,10 @@
 [project]
-name = "Cambia el nombre de tu proyecto"
+name = "ds-project"
 version = "0.1.0"
+description = "Data Science Project"
+readme = "README.md"
 requires-python = ">=3.12"
 dependencies = []
+
+
+
